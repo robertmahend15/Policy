@@ -24,4 +24,4 @@ Policy Research Team – Addressing Fully Autonomous Nuclear Weapons Launch: <br
   <li>Recommended a non-binding multilateral framework involving the United States, China, and Russia as the most practical near-term approach. </li>
   <li>Demonstrated expertise in nuclear nonproliferation, emerging technology governance, strategic policy analysis, and collaborative research.</li> 
 </ul>
-<b>Skills: Policy Analysis, AI Governance, Risk Assessment, Nuclear Nonproliferation, Cybersecurity, International Security, and Strategic Decision-Making.</b>b>
+<b>Skills: Policy Analysis, AI Governance, Risk Assessment, Nuclear Nonproliferation, Cybersecurity, International Security, and Strategic Decision-Making.</b>
