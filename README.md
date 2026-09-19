@@ -17,16 +17,15 @@ Policy Research Team – Addressing Fully Autonomous Nuclear Weapons Launch: <br
 
 
 <h2>Main Portfolio Points</h2>
-- Co-authored a decision memorandum for senior U.S. national security leaders on the risks of AI-enabled autonomous nuclear launch systems.
-<br />
-- Evaluated emerging security threats, including accidental escalation, technical failure, cyberattacks, and geopolitical arms competition.
-<br />
-- Compared five policy options: status quo, unilateral action, bilateral agreement, multilateral agreement, and a legally binding treaty.
-<br />
-- Compared five policy options: status quo, unilateral action, bilateral agreement, multilateral agreement, and a legally binding treaty.
-<br />
-- Recommended a non-binding multilateral framework involving the United States, China, and Russia as the most practical near-term approach.
-<br />
-- Demonstrated expertise in nuclear nonproliferation, emerging technology governance, strategic policy analysis, and collaborative research.
+<ul>
+  <li>Co-authored a decision memorandum for senior U.S. national security leaders on the risks of AI-enabled autonomous nuclear launch systems.  </li>
+  <li>Evaluated emerging security threats, including accidental escalation, technical failure, cyberattacks, and geopolitical arms competition.</li>
+  <li>Compared five policy options: status quo, unilateral action, bilateral agreement, multilateral agreement, and a legally binding treaty.</li>
+  <li>Recommended a non-binding multilateral framework involving the United States, China, and Russia as the most practical near-term approach. </li>
+  <li>Demonstrated expertise in nuclear nonproliferation, emerging technology governance, strategic policy analysis, and collaborative research.
+</li>
+ 
+</ul>
+
 
   **Skills: Policy Analysis, AI Governance, Risk Assessment, Nuclear Nonproliferation, Cybersecurity, International Security, and Strategic Decision-Making.**
