@@ -14,7 +14,7 @@ Using multi-attribute utility analysis, our team compared six policy options bas
 Policy Research Team – Addressing Fully Autonomous Nuclear Weapons Launch: <br/>
 <img src="https://i.imgur.com/78VzxBM.jpeg" height="80%" width="80%" alt="policy"/>
 <br />
-<br />
+
 
 **Main Portfolio Points**
 - Co-authored a decision memorandum for senior U.S. national security leaders on the risks of AI-enabled autonomous nuclear launch systems.
