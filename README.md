@@ -22,10 +22,6 @@ Policy Research Team – Addressing Fully Autonomous Nuclear Weapons Launch: <br
   <li>Evaluated emerging security threats, including accidental escalation, technical failure, cyberattacks, and geopolitical arms competition.</li>
   <li>Compared five policy options: status quo, unilateral action, bilateral agreement, multilateral agreement, and a legally binding treaty.</li>
   <li>Recommended a non-binding multilateral framework involving the United States, China, and Russia as the most practical near-term approach. </li>
-  <li>Demonstrated expertise in nuclear nonproliferation, emerging technology governance, strategic policy analysis, and collaborative research.
-</li>
- 
+  <li>Demonstrated expertise in nuclear nonproliferation, emerging technology governance, strategic policy analysis, and collaborative research.</li> 
 </ul>
-
-
-  <b>Skills: Policy Analysis, AI Governance, Risk Assessment, Nuclear Nonproliferation, Cybersecurity, International Security, and Strategic Decision-Making.<b>
+<b>Skills: Policy Analysis, AI Governance, Risk Assessment, Nuclear Nonproliferation, Cybersecurity, International Security, and Strategic Decision-Making.<b>
