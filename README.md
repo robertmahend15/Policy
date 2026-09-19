@@ -28,4 +28,4 @@ Policy Research Team – Addressing Fully Autonomous Nuclear Weapons Launch: <br
 </ul>
 
 
-  **Skills: Policy Analysis, AI Governance, Risk Assessment, Nuclear Nonproliferation, Cybersecurity, International Security, and Strategic Decision-Making.**
+  <b>Skills: Policy Analysis, AI Governance, Risk Assessment, Nuclear Nonproliferation, Cybersecurity, International Security, and Strategic Decision-Making.<b>
