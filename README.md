@@ -1,6 +1,6 @@
 <h1>Addressing Fully Autonomous Nuclear Weapons Launch</h1>
 
- ### [LinkedIn Post](https://www.linkedin.com/posts/hebahmalik_excited-to-share-that-following-immense-group-share-7056363131916226560-OGcP/?utm_medium=ios_app&rcm=ACoAAAyQCpoBxIHu4t4h0ZXDrSTXbf2xOgawlLQ&utm_source=social_share_send&utm_campaign=share_via)
+[LinkedIn Post](https://www.linkedin.com/posts/hebahmalik_excited-to-share-that-following-immense-group-share-7056363131916226560-OGcP/?utm_medium=ios_app&rcm=ACoAAAyQCpoBxIHu4t4h0ZXDrSTXbf2xOgawlLQ&utm_source=social_share_send&utm_campaign=share_via)
 
 <h2>Description</h2>
 Co-authored a policy research paper and executive memorandum examining the risks of AI-enabled autonomous nuclear launch systems. The study analyzed potential cyberattacks, technical failures, accidental escalation, and autonomous arms competition.
@@ -16,7 +16,8 @@ Policy Research Team – Addressing Fully Autonomous Nuclear Weapons Launch: <br
 <br />
 
 
-**Main Portfolio Points**
+<h2>Main Portfolio Points</h2>
+
 - Co-authored a decision memorandum for senior U.S. national security leaders on the risks of AI-enabled autonomous nuclear launch systems.
 - Evaluated emerging security threats, including accidental escalation, technical failure, cyberattacks, and geopolitical arms competition.
 - Compared five policy options: status quo, unilateral action, bilateral agreement, multilateral agreement, and a legally binding treaty.
